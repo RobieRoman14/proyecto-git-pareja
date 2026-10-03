@@ -21,9 +21,10 @@ main {
 }
 
 table {
-    width: 100%;
+    width: 90%;
     border-collapse: collapse;
 }
+
 
 th,
 td {
