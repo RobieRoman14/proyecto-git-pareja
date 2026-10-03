@@ -20,9 +20,9 @@ main {
     margin: auto;
 }
 
-table {
+ttable {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate;
 }
 
 th,
@@ -45,3 +45,30 @@ textarea {
 button {
     padding: 10px 20px;
 }
+.galeria {
+
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 20px;
+
+}
+ @media (max-width: 600px) {
+
+    table {
+
+        font-size: 12px;
+
+    }
+ 
+    input,
+
+    textarea {
+
+        width: 100%;
+
+    }
+
+}
+ 
