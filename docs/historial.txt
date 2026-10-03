@@ -1,0 +1,13 @@
+* 2e27eac feat: agregar seccion acerca y responsividad
+| * f267833 feat: agregar galeria grid
+|/  
+*   29c262c Merge pull request #2 from RobieRoman14/dev/estudiante-b
+|\  
+| * 0dfe464 feat: estilos iniciales y formulario
+* |   38d8d78 Merge pull request #1 from RobieRoman14/dev/estudiante-a
+|\ \  
+| |/  
+|/|   
+| * 387df19 feat: estructura semántica y tabla
+|/  
+* 4888180 Initial commit
